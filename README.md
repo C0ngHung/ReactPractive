@@ -1,12 +1,10 @@
-# ReactPractive
-Practive JS before learn React
-# 🛢️ QuanLyKhoNhot - Hệ thống quản lý kho nhớt
+# 🛢️ JavaScript Practice
 
-Ứng dụng web **Spring Boot** đơn giản hỗ trợ quản lý thương hiệu (brands) và sản phẩm (products) trong kho nhớt xe máy/ô tô.
+Luyện tập lại các hàm **JavaScriptES6** để trước khi bước vào học ReactJS.
 
 ---
 
-## 🚀 Tính năng chính
+## 🚀 Các bài chính
 
 - ✅ **CRUD Thương hiệu (Brands):**  
   Thêm, sửa, xoá, lấy danh sách brand.
@@ -36,11 +34,3 @@ Practive JS before learn React
 | Postman            | Test API nhanh gọn       |
 
 ---
-
-## 🏁 Khởi chạy project
-
-### Clone project
-
-```bash
-git clone https://github.com/chez1s/QuanLyKhoNhot.git
-cd QuanLyKhoNhot
