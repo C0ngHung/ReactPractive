@@ -14,3 +14,5 @@ Luyện tập lại các hàm **JavaScriptES6** để trước khi bước vào 
 
 - ✅ **Spread Operator:**
 
+- ✅ **JS Module:**
+
